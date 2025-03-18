@@ -5,10 +5,15 @@ This project showcases my ability to set up a Moodle LMS on a local server and i
 
 # Key Features
 ✅ Installed and configured Moodle LMS on a local server.
+
 ✅ Integrated SCORM-compliant courses for structured e-learning.
+
 ✅ Developed H5P interactive content (drag-and-drop, interactive videos, quizzes, etc.).
+
 ✅ Created custom quizzes and activities to enhance engagement.
+
 ✅ Designed a structured course layout with engaging learning materials.
+
 ✅ Video walkthrough of the platform to showcase its features.
 
  # Video Demo
